@@ -1,0 +1,140 @@
+https://lolzyx.xyz/static/tampermonkey/domooc.js
+https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
+https://gitee.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
+https://easylist-downloads.adblockplus.org/easylist.txt
+https://easylist-downloads.adblockplus.org/easylistchina.txt
+https://easylist-downloads.adblockplus.org/fanboy-social.txt
+https://gitee.com/halflife/list/raw/master/ad.txt
+icourse163.org##.ga-click
+sohu.com###recommend-writer
+sohu.com###hot-news
+sohu.com##.contact-fun
+sohu.com##.search-right
+sohu.com##.column left
+sohu.com##.user-info
+sohu.com##.column.left
+sohu.com##.back-sohu.prize-survey
+sohu.com##.user-feedback
+hike.zhihuishu.com##.copy-right
+hike.zhihuishu.com##.learningDemand-div
+pan.baidu.com##.phone-banner
+pan.baidu.com##.cloud-bg
+pan.baidu.com##.bg1
+pan.baidu.com##.bg2
+pan.baidu.com##.bg3
+pan.baidu.com##.CMxQsC
+pan.baidu.com##.acss_banner
+pan.baidu.com##.init-footer
+pan.baidu.com##.bd-aside
+pan.baidu.com##.gOIbzPb
+tieba.baidu.com##.top-sec clearfix
+tieba.baidu.com###rec_left
+tieba.baidu.com###rec_right
+baidu.com##.s_tab
+mooc1-1.chaoxing.com##.toolOpenBtn
+blog.csdn.net##.meau-list
+blog.csdn.net##.csdn-side-toolbar
+blog.csdn.net##.leftPop
+zybang.com##.bottomTextFlow
+zybang.com##.QRWarp
+zybang.com##.ext-info
+zybang.com##.aside
+zybang.com##.bottomBannerFlow
+zybang.com##.wgt-footer
+zybang.com##.searchbar
+zybang.com##.qb_wgt-navbar
+zybang.com##.go-top
+fanyi.baidu.com##.app-side-ad
+fanyi.baidu.com##.footer.cleafix
+zhuanlan.zhihu.com##.AdblockBanner
+zhuanlan.zhihu.com##.Sticky.ColumnPageHeader
+i.mooc.chaoxing.com##.ewm
+i.mooc.chaoxing.com###top
+i.mooc.chaoxing.com###kf
+look2.xyz##.banner
+stu.ityxb.com##.footer-top
+stu.ityxb.com##.footer-box
+translate.google.cn##.app-download-bar
+flvweb.com##.col-xs-1
+fanyi.baidu.com##.header
+fanyi.baidu.com##.domain-trans-wrapper
+fanyi.baidu.com##.manual-trans-btn
+fanyi.baidu.com##.divide-wrap
+fanyi.baidu.com##.app-read
+fanyi.baidu.com##.correct-txt
+fanyi.baidu.com##.op-zh-pingyin-btn
+fanyi.baidu.com###app-read
+52hj.info##.wrappter
+detail.tmall.com##.tm-layout
+detail.tmall.com##.gwd-topbar-logo
+detail.tmall.com##.gwd_website
+icourse163.org##.ux-share_wrap.f-cb
+xuexi.cn##.xuexi
+xuexi.cn##._2sd_CKPqo9yoERxZnUP_PX
+xuexi.cn##.menu
+xuexi.cn##.moreUrl
+xuexi.cn##.content
+xuexi.cn##.article-img
+xuexi.cn##.render-detail-detail
+xuexi.cn##.render-detail-footer
+xuexi.cn##.video-article-second-part
+xuexi.cn##._2uIfsqtBFwHcu40ZYV5yLc.night
+icourse163.org##.u-btn.u-btn-default.u-btn-sm.f-fr
+pc.xuexi.cn##.redflagbox
+bilibili.com##.footer-wrp
+52pojie.cn##.lk
+52pojie.cn##.dnch_eo_f
+52pojie.cn###ft
+zhidao.baidu.com##.jump-goto-star
+cn.bing.com##.b_ans
+cn.bing.com##.b_footer
+cn.bing.com##.b_msg.b_canvas
+bilibili.com##.tab-item
+bilibili.com##.logo
+cnblogs.com##.header
+cnblogs.com###blogTitle
+cnblogs.com###navList
+cnblogs.com###navigator
+bbs.csdn.net##.mod_fun_wrap
+bbs.csdn.net##.csdn-tracking-statistics
+bbs.csdn.net##.news-nav
+jianshu.com##._2OwGUo
+jianshu.com##._2xr8G8
+jianshu.com##._1CSgtu
+jianshu.com##.VYwngI
+jianshu.com##._3Pnjry
+jianshu.com##._1kCBjS
+jianshu.com##._19DgIp
+jianshu.com##._13lIbp
+jianshu.com##.d0hShY
+jianshu.com###note-page-comment
+jianshu.com##.rEsl9f
+baidu.com###s_tab
+baidu.com##.s_tab_inner
+pigai.org##.m-footer
+pigai.org##.copyright
+pigai.org###tab-reference
+pigai.org###tab-comment
+icourse163.org##.m-coulshar
+icourse163.org##.u-helplink
+icourse163.org##.u-cert.u-cert2.f-fc6.f-fl
+white-plus.net##.gonggao
+icourse163.org###j-share
+||pc.xuexi.cn/points/*.mp3
+http://ofphanpytor.com/
+||cdn.pigai.org//res/images/2017/kaochang_essay.jpg
+@@||ruanyifeng.com^$csp
+@@||rjno1.com^$csp
+dlkoo.com#$#abort-current-inline-script setTimeout testad
+bingfeng.tw#$#abort-current-inline-script setTimeout
+2nyan.org#$#abort-on-property-read _0xcc85f5
+rmdown.com#$#abort-on-property-read rmJson;abort-on-property-read poJson
+ruanyifeng.com#$#abort-on-property-read setTimeout
+xianzhenyuan.cn#$#abort-on-property-read ad
+rjno1.com#$#abort-on-property-read onload
+4399.com#$#abort-on-property-read defaultbackgroundimg
+hktvyb.com#$#abort-current-inline-script setInterval
+htqyy.com#$#abort-on-property-read isBlk;abort-on-property-read adFlag
+15yc.cc#$#abort-on-property-write encode_version
+dieka123.com,hanjutvn.com,hukanyy.com,taijuwang.com#$#abort-on-property-read history.pushState
