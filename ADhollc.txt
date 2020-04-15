@@ -5,7 +5,7 @@
 ! Expires: 2 days
 ! Homepage: https://github.com/holll/cloudimg/edit/master
 ##div[class*="foot"]
-##div[class*="Foot"]
+##footer[class*="Foot"]
 !--------------------------百度----------------------------------
 pan.baidu.com##.phone-banner
 pan.baidu.com##.cloud-bg
