@@ -4,8 +4,8 @@
 ! Version: 20200415
 ! Expires: 2 days
 ! Homepage: https://github.com/holll/cloudimg/edit/master
-##div[class*="foot"]
-##footer[class*="Foot"]
+##[class*="footer"]
+##[class*="Footer"]
 !--------------------------百度----------------------------------
 pan.baidu.com##.phone-banner
 pan.baidu.com##.cloud-bg
